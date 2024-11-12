@@ -1,5 +1,7 @@
 # System Information with Python
 
+System Information with Tkinter [sv_ttk](https://pypi.org/project/sv-ttk/) theme.
+
 ![System Info GUI Theme](./img/gui_theme.png)
 
 ## Purpose
